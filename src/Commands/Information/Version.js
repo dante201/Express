@@ -12,12 +12,12 @@ module.exports = class extends Command {
 
     async run(message) {
         let verMsg = "__**Express Source " + version +"**__\n";
-        verMsg += "This is a bot entirely made in Discord.js and other libraries.\n";
-        verMsg += "The Music service is made using Erela.js and Lavalink.\n";
-        verMsg += "I really want to thank ImCactus for some of his code.\n";
-        verMsg += "The bot is made with heart by <@480987124405895168>\n";
-        verMsg += "__Support Discord server:__ https://discord.gg/HKqb6V7\n";
-        verMsg += "__GitHub repository:__ https://github.com/ItzLightyHD/Express"
+        verMsg += "xd";
+        verMsg += "lol";
+        verMsg += "lamoo";
+        verMsg += "XD";
+        verMsg += "XD";
+        verMsg += "XD"
         return message.channel.send(verMsg);
     }
 }
